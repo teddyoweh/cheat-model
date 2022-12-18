@@ -3,7 +3,7 @@
 
 This natural language processing text classification model uses various algorithms to predict if a sentence is closely related to a student trying to ask for answers in a group chat. 
 
-Developed this model for a Social Network used to connect with students with same majors [Afterhours]() developed by Tarleton Computer Society
+Developed this model for a Social Network used to connect with students with same majors [Afterhours](https://github.com/Tarleton-Computer-Society/afterhours) developed by [Tarleton Computer Society](https://github.com/Tarleton-Computer-Society)
 
 Libraries used for this include pandas and numpy for data manipulation and seaborn, matplotlib, and pickle for data visualization. The model also utilizes various nltk (Natural Language Toolkit) libraries for text preprocessing, including word_tokenize for tokenizing text into individual words and stopwords for removing common stopwords. The model also uses the SnowballStemmer from nltk for stemming words and the WordNetLemmatizer for lemmatizing words.
 
