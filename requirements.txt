@@ -1,0 +1,7 @@
+pandas
+seaborn
+nltk
+scikit-learn
+gensim
+pickle
+ 
